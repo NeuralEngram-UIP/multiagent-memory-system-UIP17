@@ -58,3 +58,18 @@ Orchestrator
 
 7. **Optimization Loop**  
    Over time, the system self-optimizes by retaining only high-value memory entries and discarding low-relevance data.
+
+
+## Alzheimer’s Patient Companion! : An Application
+
+This system can be conceptually used to simulate memory degradation patterns similar to Alzheimer’s disease, where memory retention gradually weakens and recall becomes inconsistent over time.
+
+By modeling controlled memory decay, it becomes possible to study how information loss affects decision-making and recall behavior in cognitive systems.
+
+### Key simulation ideas:
+- Gradual reduction in memory retention strength over time  
+- Increased likelihood of forgetting rarely accessed information  
+- Fragmented recall where partial or related memories are retrieved instead of complete ones  
+- Difficulty in forming long-term stable memories without reinforcement  
+
+Such models can help in research-oriented studies of memory degradation patterns and in designing systems that remain robust even under constrained or unreliable memory conditions.
